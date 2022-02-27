@@ -1,0 +1,4 @@
+1.Constructor is a member methode.
+2.Same as class name
+3.It will not return anything.
+4.It will be use to alocate memory
