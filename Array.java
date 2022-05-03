@@ -5,7 +5,7 @@ class Student{
 }
 public class Array {
     public static void main(String[] args) {
-        //💥 we can creat an array in java also like this
+        //💥 we can creat an array in java also like this...
 
         // int num [] = new int[4];
         // num[0]=10;
